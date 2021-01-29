@@ -1,2 +1,1 @@
-# Fuzzy-C-means-Clustering
-FOR iris DATA SET
+# Fuzzy-C-means-Clustering for iris dataset
